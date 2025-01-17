@@ -239,10 +239,7 @@ const HeroSection = () => {
             return null;
           })}
         </ul>
-
-        {/* Active Component */}
-        <div>{activeItem || <HotelFilter />}</div>
-        <div>{activeItem || <FlightFilter />}</div>
+        <div>{activeItem || <HotelFilter /> || <FlightFilter />}</div>
       </PaddingContainer>
     </div>
   );
