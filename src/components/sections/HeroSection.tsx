@@ -1,7 +1,6 @@
 'use client';
 
 import React, { useEffect, useRef, useState } from 'react';
-import HeroBg from '@/assets/img/header-bg.webp';
 
 import PaddingContainer from '../containers/PaddingContainer';
 import HotelFilter from '../ui/filter/filter-item/HotelFilter';

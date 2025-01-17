@@ -7,7 +7,6 @@ import { useRouter } from 'next/navigation';
 
 import hotels from '../../../../../../dummyHotels';
 
-import { LuHotel } from 'react-icons/lu';
 import { CiLocationOn } from 'react-icons/ci';
 import { FaBuildingUser } from 'react-icons/fa6';
 import { IoIosSearch } from 'react-icons/io';
