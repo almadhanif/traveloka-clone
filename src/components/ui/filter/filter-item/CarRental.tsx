@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 const CarRental = () => {
-  return <div>CarRental</div>;
+  return <div></div>;
 };
 
 export default CarRental;

@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 const BusAndTravelFilter = () => {
-  return <div>BusAndTravelFilter</div>;
+  return <div></div>;
 };
 
 export default BusAndTravelFilter;

@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 const AirportTransferFilter = () => {
-  return <div>AirportTransferFilter</div>;
+  return <div></div>;
 };
 
 export default AirportTransferFilter;

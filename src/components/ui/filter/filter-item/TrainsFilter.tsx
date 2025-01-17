@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 const TrainsFilter = () => {
-  return <div>TrainsFilter</div>;
+  return <div></div>;
 };
 
 export default TrainsFilter;

@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 const ThingToDo = () => {
-  return <div>ThingToDo</div>;
+  return <div></div>;
 };
 
 export default ThingToDo;
